@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vajhala Sai Nandu</h1>
 <h3 align="center">Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainanduvajhala&label=Profile%20views&color=0e75b6&style=flat" alt="sainanduvajhala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sainanduvajhala&label=Profile%20views&color=0e75b6&style=flat" alt="SaiNanduVajhala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainanduvajhala" alt="sainanduvajhala" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaiNanduVajhala" alt="SaiNanduVajhala" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial intelligence & Machine Learning**
 
