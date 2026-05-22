@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Nandu</h1>
-<h3 align="center">Student</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=A7BEAE&text=Sai%20Nandu%20&desc=AI-ML%20Student&textBg=false&section=header&reversal=true&descAlignY=70&descSize=25&fontAlign=50&fontAlignY=50&animation=fadeIn&fontColor=1E2322" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainanduvajhala&label=Profile%20views&color=0e75b6&style=flat" alt="SaiNanduVajhala" /> </p>
 
@@ -18,12 +17,10 @@
 ![](https://streak-stats.demolab.com/?user=SaiNanduVajhala&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SaiNanduVajhala&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaiNanduVajhala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/SaiNanduVajhala/)](https://github.com/SaiNanduVajhala/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vajhala-sai-nandu/)](https://www.linkedin.com/in/vajhala-sai-nandu/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/vajhalasainandu)](https://www.hackerrank.com/vajhalasainandu)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vajhalasainandu@gmail.com)](mailto:vajhalasainandu@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaiNanduVajhala&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=A7BEAE&text=Thank%20You&section=footer&fontColor=1E2322&fontAlignY=57" />
