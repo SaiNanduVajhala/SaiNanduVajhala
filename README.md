@@ -21,6 +21,5 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/SaiNanduVajhala/)](https://github.com/SaiNanduVajhala/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vajhala-sai-nandu/)](https://www.linkedin.com/in/vajhala-sai-nandu/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/vajhalasainandu)](https://www.hackerrank.com/vajhalasainandu)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vajhalasainandu@gmail.com)](mailto:vajhalasainandu@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=A7BEAE&text=Thank%20You&section=footer&fontColor=1E2322&fontAlignY=57" />
