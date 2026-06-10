@@ -141,6 +141,16 @@
 
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiNanduVajhala/SaiNanduVajhala/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiNanduVajhala/SaiNanduVajhala/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SaiNanduVajhala/SaiNanduVajhala/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
 <h2 align="center"><img src="icons/github.svg" width="24" height="24" valign="middle" /><em> GitHub Stats</em></h2>
 <p align="center">
   <img src="https://camo.githubusercontent.com/35e61b89e3d5ac696a4ce29ca0a53e66a3559a5499e1828a39d0476ae704033d/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170693f757365726e616d653d5361694e616e647556616a68616c61267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" height="165" alt="GitHub stats" />
