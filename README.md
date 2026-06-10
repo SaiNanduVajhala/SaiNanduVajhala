@@ -35,10 +35,10 @@
 <br/>
 
 <p align="center">
-  <em><b>B.Tech CSE student specializing in AI & ML</b></em> <br/>
-  <em><b>Competitive Programming & Problem Solving</b></em> <br/>
-  <em><b>Machine Learning & GEN AI</b></em> <br/>
-  <em><b>Open Source and Continuous Learning</b></em>
+<em><b>B.Tech CSE student specializing in AI & ML</b></em> <br/>
+<em><b>Competitive Programming & Problem Solving</b></em> <br/>
+<em><b>Machine Learning & GEN AI</b></em> <br/>
+<em><b>Open Source and Continuous Learning</b></em>
 </p>
 
 <br/>
