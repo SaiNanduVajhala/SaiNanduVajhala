@@ -36,9 +36,9 @@
 
 <p align="center">
   <em><b>B.Tech CSE student specializing in AI & ML</b></em> <br/>
-  <em><b>Focused on full stack development, AI apps, and problem solving</b></em> <br/>
-  <em><b>Interested in NLP, Computer Vision, and modern web technologies</b></em> <br/>
-  <em><b>Building projects with React, Node.js, Supabase, Python, and more</b></em>
+  <em><b>Competitive Programming & Problem Solving</b></em> <br/>
+  <em><b>Machine Learning & GEN AI</b></em> <br/>
+  <em><b>Open Source and Continuous Learning</b></em>
 </p>
 
 <br/>
