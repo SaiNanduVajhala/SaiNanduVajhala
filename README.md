@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="github-header-banner.JPG" alt="GitHub Banner" width="100%" />
-</div>
+<!-- <div align="center">
+  <img src="github-header-banner.png" alt="GitHub Banner" width="100%" />
+</div> -->
+![Banner](github-header-banner.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vajhala-sai-nandu/" target="_blank">
@@ -22,7 +23,7 @@
 
 <br>
 
-<h2 align="center">✨ <img src="icons/user.svg" width="28" height="28" valign="middle" /> <em>About Me</em></h2>
+<h2 align="center"><img src="icons/user.svg" width="28" height="28" valign="middle" /> <em>About Me</em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" alt="coding gif" />
 
