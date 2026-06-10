@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-headerbanner.JPG" alt="GitHub Banner" width="100%" />
+  <img src="github-header-banner.png" alt="GitHub Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <br>
 
-<h2 align="center">✨ <img src="icons/user.svg" width="28" height="28" valign="middle" /> <em>About Me</em></h2>
+<h2 align="center">✨ <img src="icons/user.svg" width="24" height="24" valign="middle" /> <em>About Me</em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" alt="coding gif" />
 
@@ -44,7 +44,7 @@
 <br/>
 <br/>
 
-<h2 align="center"><img src="icons/layers.svg" width="28" height="28" valign="middle" /> <em>Tech Stack</em></h2>
+<h2 align="center"><img src="icons/layers.svg" width="24" height="24" valign="middle" /> <em>Tech Stack</em></h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -134,14 +134,14 @@
 
 <br/>
 
-<h2 align="center"><img src="icons/stats.svg" width="28" height="28" valign="middle" /> <em>Statistics</em></h2>
+<h2 align="center"><img src="icons/stats.svg" width="24" height="24" valign="middle" /> <em>Statistics</em></h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiNanduVajhala&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="GitHub activity graph" />
 </div>
 
 <br/>
 
-<h2 align="center"><em>GitHub Stats</em></h2>
+<h2 align="center"><img src="icons/github.svg" width="24" height="24" valign="middle" /><em>GitHub Stats</em></h2>
 <p align="center">
   <img src="https://camo.githubusercontent.com/35e61b89e3d5ac696a4ce29ca0a53e66a3559a5499e1828a39d0476ae704033d/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170693f757365726e616d653d5361694e616e647556616a68616c61267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" height="165" alt="GitHub stats" />
   <img src="https://camo.githubusercontent.com/0b3a695afe806b616ea012be5d18a04809afd2b191cda8a7f1dcce397a94ca1c/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170692f746f702d6c616e67732f3f757365726e616d653d5361694e616e647556616a68616c61267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" height="165" alt="Top languages" />
