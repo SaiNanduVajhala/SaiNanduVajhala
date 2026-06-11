@@ -12,8 +12,8 @@
   <a href="https://leetcode.com/u/5a1tama/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/5aitama" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <!-- <a href="https://codeforces.com/profile/5aitama" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> -->
   </a>
   <a href="https://www.hackerrank.com/profile/vajhalasainandu" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
