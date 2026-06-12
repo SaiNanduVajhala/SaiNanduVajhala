@@ -27,7 +27,7 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" alt="coding gif" />
 
 <p>
-  Hello there! <em><b>I'm Vajhala Sai Nandu</b></em>, a B.Tech Computer Science student specializing in AI and Machine Learning, with a strong foundation in competitive programming and algorithmic problem-solving. My technical focus centers on building practical GenAI applications and full-stack backend systems. I am deeply passionate about open-source contribution and continuously adapting to modern developer tools.
+  Hello there! <em><b>I'm Vajhala Sai Nandu</b></em>, a B.Tech Computer Science student specializing in AI and Machine Learning, with a strong foundation in competitive programming and algorithmic problem-solving. My technical focus centers on building practical GenAI applications. I am deeply passionate about open-source contribution and continuously adapting to modern developer tools.
 </p>
 
 <br/>
