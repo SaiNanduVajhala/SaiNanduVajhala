@@ -132,6 +132,47 @@
 
 <br/>
 
+<h2 align="center">🏆 <em>Hackathons & Competitions</em></h2>
+
+<br/>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Hangover Hackathon</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/WeMakeDevs-Hackathon-red?style=for-the-badge&logo=github&logoColor=white" alt="WeMakeDevs" />
+        </p>
+        <p align="center"><b>Oneiros</b> | <i>Cognitive Memory OS</i></p>
+        <p align="justify">
+          Built a biologically-inspired long-term AI memory operating system based on <i>The Overfitted Brain Hypothesis</i>. Implemented a 5-stage sleep consolidation pipeline (N1 to REM) utilizing Cognee Cloud to prune episodic memory, prevent context bloat, and help AI agents sleep to wake up smarter.
+        </p>
+        <p align="center">
+          <a href="https://github.com/SaiNanduVajhala/oneiros" target="_blank">💾 Codebase</a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Gemma 4 Good Hackathon</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Google_DeepMind-Kaggle-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind" />
+        </p>
+        <p align="center"><b>LexiRead</b> | <i>Dyslexia-Friendly Reader</i></p>
+        <p align="justify">
+          Developed an AI-powered dyslexia-friendly reading assistant using Google's Gemma model to improve text accessibility. Dynamically adapts text layouts, font spacing, and sentence complexity to enhance readability and reading speed for neurodivergent individuals.
+        </p>
+        <p align="center">
+          <a href="https://github.com/SaiNanduVajhala/lexiread" target="_blank">💾 Codebase</a> &bull; 
+          <a href="https://lexi-read-one.vercel.app/" target="_blank">🌐 Live Demo</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<br/>
+
 <h2 align="center"><img src="icons/stats.svg" width="24" height="24" valign="middle" /> <em>Statistics</em></h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiNanduVajhala&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="GitHub activity graph" />
