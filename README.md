@@ -132,7 +132,7 @@
 
 <br/>
 
-<h2 align="center">🏆 <em>Hackathons & Competitions</em></h2>
+<h2 align="center"><img src="icons/trophy.svg" width="24" height="24" valign="middle" /> <em>Hackathons & Competitions</em></h2>
 
 <br/>
 
@@ -149,7 +149,7 @@
           Built a biologically-inspired long-term AI memory operating system based on <i>The Overfitted Brain Hypothesis</i>. Implemented a 5-stage sleep consolidation pipeline (N1 to REM) utilizing Cognee Cloud to prune episodic memory, prevent context bloat, and help AI agents sleep to wake up smarter.
         </p>
         <p align="center">
-          <a href="https://github.com/SaiNanduVajhala/oneiros" target="_blank">💾 Codebase</a>
+          <a href="https://github.com/SaiNanduVajhala/oneiros" target="_blank">Codebase</a>
         </p>
       </td>
       <td width="50%" valign="top">
@@ -162,8 +162,8 @@
           Developed an AI-powered dyslexia-friendly reading assistant using Google's Gemma model to improve text accessibility. Dynamically adapts text layouts, font spacing, and sentence complexity to enhance readability and reading speed for neurodivergent individuals.
         </p>
         <p align="center">
-          <a href="https://github.com/SaiNanduVajhala/lexiread" target="_blank">💾 Codebase</a> &bull; 
-          <a href="https://lexi-read-one.vercel.app/" target="_blank">🌐 Live Demo</a>
+          <a href="https://github.com/SaiNanduVajhala/lexiread" target="_blank">Codebase</a> &bull; 
+          <a href="https://lexi-read-one.vercel.app/" target="_blank">Live Demo</a>
         </p>
       </td>
     </tr>
