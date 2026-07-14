@@ -132,7 +132,7 @@
 
 <br/>
 
-<h2 align="center"><img src="icons/trophy.svg" width="24" height="24" valign="middle" /> <em>Hackathons & Competitions</em></h2>
+<h2 align="center"><img src="icons/hackathon.svg" width="24" height="24" valign="middle" /> <em>Hackathons & Competitions</em></h2>
 
 <br/>
 
